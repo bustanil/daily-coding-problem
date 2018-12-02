@@ -21,5 +21,7 @@ public class Problem1 {
             }
         }
         System.out.println(found);
+
+        // TODO work on the bonus!
     }
 }
